@@ -10075,7 +10075,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/header3.png");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/header.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10129,11 +10129,11 @@ header.masthead h1 {
 }
 #github .container-fluid .portfolio-box .portfolio-box-caption .project-category, #github .container-sm .portfolio-box .portfolio-box-caption .project-category, #github .container-md .portfolio-box .portfolio-box-caption .project-category, #github .container-lg .portfolio-box .portfolio-box-caption .project-category, #github .container-xl .portfolio-box .portfolio-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 0.85rem;
+  font-size: 1.6rem;
   font-weight: 600;
   text-transform: uppercase;
 }
-#github .container-fluid .portfolio-box .portfolio-box-caption .project-name, #github .container-sm .portfolio-box .portfolio-box-caption .project-name, #github .container-md .portfolio-box .portfolio-box-caption .project-name, #github .container-lg .portfolio-box .portfolio-box-caption .project-name, #github .container-xl .portfolio-box .portfolio-box-caption .project-name {
+#github .container-fluid .portfolio-box .portfolio-box-caption .project-category-description, #github .container-sm .portfolio-box .portfolio-box-caption .project-category-description, #github .container-md .portfolio-box .portfolio-box-caption .project-category-description, #github .container-lg .portfolio-box .portfolio-box-caption .project-category-description, #github .container-xl .portfolio-box .portfolio-box-caption .project-category-description {
   font-size: 1.2rem;
 }
 #github .container-fluid .portfolio-box:hover .portfolio-box-caption, #github .container-sm .portfolio-box:hover .portfolio-box-caption, #github .container-md .portfolio-box:hover .portfolio-box-caption, #github .container-lg .portfolio-box:hover .portfolio-box-caption, #github .container-xl .portfolio-box:hover .portfolio-box-caption {
